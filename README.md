@@ -355,4 +355,9 @@ I have used Power BI desktop to further analyse the data and to visualize it to 
 
 ## Conclusion 
 It took me around 3 days to complete the project. The project is made to showcase my current skill level in SQL and data visualization using Power BI. I hope you find it useful.
+Dashboard samples 
+
+![sample1](https://github.com/user-attachments/assets/a39651e4-6586-4758-8d6f-30412f1cb484)
+
+![sample2](https://github.com/user-attachments/assets/d81aa48f-4a7b-4c84-8f5a-c266c391158f)
 
